@@ -1,3 +1,21 @@
+# Data
+raw-data
+data
+
+# Models
+models
+*.pt
+
+# Drafts
+draft*.py
+draft*.ipynb
+draft*.txt
+
+# Training
+runs
+runs
+runs
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
